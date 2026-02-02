@@ -155,6 +155,24 @@ body{
     width: 100%;
     border-radius: 8px;
 }
+
+.picture{
+    /* box-shadow: 0 0 5px cyan,
+    0 0 px cyan */
+    box-shadow: 0 0 5px cyan,
+    0 0 10px cyan, 0 0 25px cyan,
+    0 0 50px cyan, 0 0 100px cyan
+
+}
+.picture:hover{
+    box-shadow: 0 0 5px cyan,
+    0 0 10px cyan, 0 0 25px cyan,
+    0 0 100px cyan, 0 0 100px cyan
+}
+
+
+
+
 .about-text h2{
     font-size: 60px;
 }
