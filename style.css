@@ -814,6 +814,9 @@ section{
 .about-img{
     padding-bottom: 0;
 }
+#photo{
+    display: none;
+}
 
 /* SERVICES */
 .container{
